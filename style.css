@@ -1,0 +1,28 @@
+.header-top {
+    --tw-header-top: blur(12px);
+}
+.wh-color {
+    background-color: hsla(0, 0%, 100%, .8);
+}
+
+
+
+.l&r {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+.tap-work {
+    justify-content: space-between
+}
+.center {
+    align-items: center;
+}
+.w-full {
+    width: 100%;
+}
+.h-full {
+    height: 100%;
+}
+.flex {
+    display: flex;
+}
